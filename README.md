@@ -9,4 +9,5 @@
 - 川口海水浴場
    - __治安が悪い__
 
-[予約はこちらから](https://ja.wikipedia.org/wiki/Wikipedia:%E5%89%8A%E9%99%A4%E3%81%95%E3%82%8C%E3%81%9F%E6%82%AA%E3%81%B5%E3%81%96%E3%81%91%E3%81%A8%E3%83%8A%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B9/%E5%9F%BC%E7%8E%89%E6%B9%BE)
+予約は[こちら](https://ja.wikipedia.org/wiki/Wikipedia:%E5%89%8A%E9%99%A4%E3%81%95%E3%82%8C%E3%81%9F%E6%82%AA%E3%81%B5%E3%81%96%E3%81%91%E3%81%A8%E3%83%8A%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B9/%E5%9F%BC%E7%8E%89%E6%B9%BE)
+から
